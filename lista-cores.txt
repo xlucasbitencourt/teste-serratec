@@ -1,3 +1,6 @@
 vermelho
 azul
 laranja
+
+preto
+branco
