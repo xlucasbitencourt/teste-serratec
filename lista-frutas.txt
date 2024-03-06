@@ -1,3 +1,5 @@
-maça
-acerola
-abacate
+- maça
+- acerola
+- abacate
+- uva
+- mamão
